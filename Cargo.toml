@@ -10,5 +10,6 @@ description = ""
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-dragnit = "0.1.0"
+dragnit = "0.1.1"
+crimthy-dragnit-schemes = "0.1.0"
 clap = "2.33.0"
