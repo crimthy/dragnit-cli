@@ -1,0 +1,13 @@
+[package]
+name = "dragnit-cli"
+version = "0.1.0"
+authors = ["rostegg"]
+edition = "2018"
+repository = "https://github.com/crimthy/dragnit-cli"
+license = "MIT"
+description = ""
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+dragnit = "0.1.0"
